@@ -82,8 +82,12 @@ python scripts/predict_gesture.py
 The webcam will display the detected gesture in real time.
 </pre>
 
-<b>Supported Features:</b>
+<b>Supported Gestures:</b>
 
+<img width="1672" height="786" alt="image" src="https://github.com/user-attachments/assets/0abb7c92-f233-414f-b839-1a06e9ec06e7" />
+
+<hr>
+<br>
 <b>Future Improvements:</b>
 1. More gesture classes
 2. Data augmentation
