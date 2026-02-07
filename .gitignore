@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+models/*.keras
+models/*.pkl
+.env
+venv/
+gesture_env/
+tf_env/
+data/
+models/
+
